@@ -130,6 +130,7 @@ button:focus {
 /*
     home
 */
+
 #home {
     background-color: var(--color-primary);
     color: var(--color-white);
@@ -506,7 +507,7 @@ button:focus {
     위에서 max-width가 지정되어 있으므로
     max-width 따로 지정하지 않아도 됨
 ********************************************/
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 425px) {
     .section {
         padding: 2rem 1rem;
     }
